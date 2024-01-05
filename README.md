@@ -23,4 +23,4 @@ This project is a web-based implementation of the classic Simon game using HTML,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/simon-game.git
+   git clone https://github.com/OjaswaniB/Simon-Game.git
